@@ -46,7 +46,7 @@ This project analyzes customer churn behavior and quantifies revenue exposure us
 ## Repo Structure
 - `/sql/` — SQL queries used to create KPIs and analysis features
 - `/tableau/` — Tableau workbook/dashboard
-- `/assets/` — dashboard screenshots for the README
+- `/dashboardoverview/` — dashboard screenshots for the README
 
 ## Tools Used
 - PostgreSQL
