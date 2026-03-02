@@ -28,8 +28,10 @@ This project analyzes customer churn behavior and quantifies revenue exposure us
 - Downgrade Flag as a Churn Risk Signal (heatmap)
 - Customer Churn Distribution
 
-> Add a screenshot here: ## Dashboard Preview
-![Churn Dashboard](images/dashboard-overview.png)
+## Dashboard Preview
+
+![Customer Churn Dashboard](dashboard-overview.png)
+
 
 ## Data & Definitions
 - **Churned** = subscriptions with `churn_outcome = TRUE`
